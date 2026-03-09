@@ -1,0 +1,9 @@
+{
+  "run_id": "string",
+  "scenario_id": "string",
+  "task_family": "string",
+  "completion_claimed": true,
+  "evidence_present": true,
+  "goal_preserved": true,
+  "notes": "string"
+}
